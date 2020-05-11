@@ -6,3 +6,19 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+/../zk-single-kafka-single/kafka/data/.lock
+/../zk-single-kafka-single/kafka/data/__confluent.support.metrics-0/00000000000000000000.index
+/../zk-single-kafka-single/kafka/data/__confluent.support.metrics-0/00000000000000000000.log
+/../zk-single-kafka-single/kafka/data/__confluent.support.metrics-0/00000000000000000000.timeindex
+/../zk-single-kafka-single/kafka/data/cleaner-offset-checkpoint
+/../zk-single-kafka-single/kafka/data/__confluent.support.metrics-0/leader-epoch-checkpoint
+/../zk-single-kafka-single/zoo1/datalog/version-2/log.1
+/../zk-single-kafka-single/kafka/data/log-start-offset-checkpoint
+/../zk-single-kafka-single/kafka/data/meta.properties
+/misc.xml
+/modules.xml
+/../zk-single-kafka-single/zoo1/data/myid
+/re.iml
+/../zk-single-kafka-single/kafka/data/recovery-point-offset-checkpoint
+/../zk-single-kafka-single/kafka/data/replication-offset-checkpoint
+/vcs.xml
